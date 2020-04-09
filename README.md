@@ -3,7 +3,7 @@ This is sample server code using node.js and mySQL database.
 
 ## Data base used in this project
 
-python``
+```python
 CREATE DATABASE sitepoint CHARACTER SET utf8 COLLATE utf8_general_ci;
 USE sitepoint;
 
@@ -19,6 +19,6 @@ INSERT INTO authors (id, name, city) VALUES
 (2, 'Michael Wanyoike', 'Nairobi'),
 (3, 'James Hibbard', 'Munich'),
 (4, 'Karolina Gawron', 'Wrocław');
-``
+```
 
 ## CRUD operation
