@@ -9,6 +9,9 @@ Download from https://dev.mysql.com/downloads/mysql/5.5.html?os=3&version=5 and 
 ### mysql-workbench-community-8.0.19-winx64.msi
 Download from https://dev.mysql.com/downloads/workbench/ and install GUI tool to run queries
 
+### Postman-win64-7.22.1-Setup.exe
+Download from https://www.postman.com/downloads/ and install postman to test all end points 
+
 
 ## Data base used in this project
 ### DB name: sitepoint, table name: authors, all CRUD operations are performed in node.js
