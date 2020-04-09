@@ -56,3 +56,12 @@ con.end((err) => {
 });
 
 ```
+
+## Run following commands
+```bash
+npm install 
+npm app.js
+```
+
+Server will e running on 5000 port, open browser and type localhost:5000
+
