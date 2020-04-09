@@ -4,6 +4,7 @@ This is sample server code using node.js and mySQL database.
 ## Data base used in this project
 
 ```python
+### DB name: sitepoint, table name: authors, all CRUD operations are performed in node.js
 CREATE DATABASE sitepoint CHARACTER SET utf8 COLLATE utf8_general_ci;
 USE sitepoint;
 
