@@ -4,7 +4,7 @@ This is sample server code using node.js and mySQL database.
 ## prerequisite
 
 ### mysql-8.0.19-winx64.zip
-Download and install mySQL and configure on your local
+Download from https://dev.mysql.com/downloads/mysql/5.5.html?os=3&version=5 and install mySQL and configure on your local
 
 ### mysql-workbench-community-8.0.19-winx64.msi
 Download and install GUI tool to run queries
